@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Comono_Java_Test.iml" filepath="$PROJECT_DIR$/.idea/modules/Comono_Java_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ComonoJavaLibrary/Comono_Java_Test.ComonoJavaLibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Comono_Java_Test.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
